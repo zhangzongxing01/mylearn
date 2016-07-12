@@ -15,7 +15,7 @@ import javassist.bytecode.MethodInfo;
 public class MethodTest {
 
     public static void main(String[] args) throws ClassNotFoundException, NotFoundException {
-        jdkRefect();
+//        jdkRefect();
         javassistMethod();  
     }
 
